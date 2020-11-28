@@ -1,0 +1,21 @@
+name: ReplyWith
+main: NamelessLeaf\ReplyWith
+version: "1.0 ALPHA"
+api: 3.0.0+ALPHA9
+author: larryTheCoder
+website: https://github.com/NamelessLeaf/ReplyWith/tree/main
+commands:
+  rw:
+    description: Main ReplyWith Command
+    default: true
+    permission: sw.command
+permissions:
+  sw.command.setcommand:
+    description: Set The Trigger Command
+    default: op
+  sw.setmessage:
+    description: Set The ReplyWith Reply
+    default: true
+  sw.reply:
+    description: ReplyWith Reply Command 
+    default: op
