@@ -12,4 +12,8 @@ use pocketmine\plugin\PluginBase;
 
 class Main extends PluginBase implements Listener{
   
+  public function onCommand(){
+  
+  }
+  
 }
