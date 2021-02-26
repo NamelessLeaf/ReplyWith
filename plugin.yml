@@ -1,5 +1,5 @@
 name: ReplyWith
-main: NamelessLeaf\ReplyWith\Main
+main: NamelessLeaf\ReplyWith
 version: "1.0"
 api: [3.0.0]
 author: NamelessLeaf
